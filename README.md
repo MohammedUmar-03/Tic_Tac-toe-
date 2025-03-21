@@ -1,6 +1,10 @@
 Tic Tac Toe
+
+
 Tic Tac Toe Web Application
+
 Task - To build a simple Tic Tac Toe web application.
+
 
 Rules
 Two players take turns: placing 'X' and 'O' marks in empty spaces on a 3x3 square grid.
